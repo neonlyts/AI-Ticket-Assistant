@@ -50,6 +50,18 @@ Check Azure AD / Conditional Access — Review any recent policy changes in Entr
 Check for widespread issues — Verify the Microsoft 365 Service Health Dashboard for any active incidents affecting Teams sign-in.
 
 
+
+## Practical Implementation
+
+This solution can be implemented as:
+- A Copilot Studio chatbot for IT teams
+- A ServiceNow/Jira integration for automated ticket triage
+- A Teams-based assistant for support engineers
+
+This demonstrates how AI can move from concept to operational use within existing enterprise tools.
+
+
+
 ## Tools Used
 - Claude (Anthropic)
 - Prompt Engineering
