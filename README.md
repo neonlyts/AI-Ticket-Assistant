@@ -1,4 +1,4 @@
-# AI Ticket Assistant - NeonAssist
+# NeonAssist – AI Ticket Triage Assistant
 
 ## Overview
 This project demonstrates how AI (Claude) can be used to automate IT support ticket triage.
