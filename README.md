@@ -1,7 +1,7 @@
 # NeonAssist – AI Ticket Triage Assistant
 
 ## Overview
-This project demonstrates how AI (Claude) can be used to automate IT support ticket triage.
+This project demonstrates how AI (Claude) can be used to automate IT support ticket triage. It is a part of my hands-on exploration into practical AI adoption within enterprise workflows.
 
 ## Problem
 Manual triage of tickets is time-consuming and inconsistent.
